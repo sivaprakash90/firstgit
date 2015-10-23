@@ -1,0 +1,4 @@
+git init - To make a local working git repository
+git init - To make a local working git repository
+git add <filename> - To add a file to the stage level
+git commmit <filename> - To commit a file
